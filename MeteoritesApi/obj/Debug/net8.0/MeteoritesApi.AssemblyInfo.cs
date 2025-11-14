@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeteoritesApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f675e9ac9d5c929444338f2bbea81b20c2b436")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeteoritesApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeteoritesApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

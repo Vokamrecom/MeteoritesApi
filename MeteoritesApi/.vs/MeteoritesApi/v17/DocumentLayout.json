@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\data\\meteoritesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:data\\meteoritesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\controllers\\meteoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:controllers\\meteoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\clients\\nasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:clients\\nasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\clients\\inasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:clients\\inasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\services\\meteoriteingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:services\\meteoriteingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\models\\nasa\\nasameteoriterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:models\\nasa\\nasameteoriterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\entities\\ingestionrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:entities\\ingestionrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\jobs\\meteoritesyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:jobs\\meteoritesyncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|c:\\waveaccess\\my folder\\meteoritesapi\\meteoritesapi\\meteoritesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D45D5C0C-D584-4E90-B4BE-D25560476285}|MeteoritesApi.csproj|solutionrelative:meteoritesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1319,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +95,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T19:11:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T19:04:56.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeteoriteIngestionService.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Services\\MeteoriteIngestionService.cs",
+              "RelativeDocumentMoniker": "Services\\MeteoriteIngestionService.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Services\\MeteoriteIngestionService.cs",
+              "RelativeToolTip": "Services\\MeteoriteIngestionService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:02:43.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NasaDatasetClient.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Clients\\NasaDatasetClient.cs",
+              "RelativeDocumentMoniker": "Clients\\NasaDatasetClient.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Clients\\NasaDatasetClient.cs",
+              "RelativeToolTip": "Clients\\NasaDatasetClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:57:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INasaDatasetClient.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Clients\\INasaDatasetClient.cs",
+              "RelativeDocumentMoniker": "Clients\\INasaDatasetClient.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Clients\\INasaDatasetClient.cs",
+              "RelativeToolTip": "Clients\\INasaDatasetClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:57:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NasaMeteoriteRecord.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Models\\Nasa\\NasaMeteoriteRecord.cs",
+              "RelativeDocumentMoniker": "Models\\Nasa\\NasaMeteoriteRecord.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Models\\Nasa\\NasaMeteoriteRecord.cs",
+              "RelativeToolTip": "Models\\Nasa\\NasaMeteoriteRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:56:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeteoritesDbContext.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Data\\MeteoritesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MeteoritesDbContext.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Data\\MeteoritesDbContext.cs",
+              "RelativeToolTip": "Data\\MeteoritesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:56:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeteoritesController.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Controllers\\MeteoritesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeteoritesController.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Controllers\\MeteoritesController.cs",
+              "RelativeToolTip": "Controllers\\MeteoritesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCAAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:51:01.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngestionRun.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Entities\\IngestionRun.cs",
+              "RelativeDocumentMoniker": "Entities\\IngestionRun.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Entities\\IngestionRun.cs",
+              "RelativeToolTip": "Entities\\IngestionRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:50:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeteoriteSyncJob.cs",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Jobs\\MeteoriteSyncJob.cs",
+              "RelativeDocumentMoniker": "Jobs\\MeteoriteSyncJob.cs",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\Jobs\\MeteoriteSyncJob.cs",
+              "RelativeToolTip": "Jobs\\MeteoriteSyncJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:50:39.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeteoritesApi.http",
+              "DocumentMoniker": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\MeteoritesApi.http",
+              "RelativeDocumentMoniker": "MeteoritesApi.http",
+              "ToolTip": "C:\\WaveAccess\\My folder\\MeteoritesApi\\MeteoritesApi\\MeteoritesApi.http",
+              "RelativeToolTip": "MeteoritesApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-14T17:25:29.669Z",
+              "EditorCaption": ""
             }
           ]
         },
